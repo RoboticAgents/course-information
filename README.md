@@ -12,6 +12,7 @@ This repository contains information about the Robotic Agents course, including 
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Outcomes)
+- [Required Materials](#Materials)
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
@@ -51,7 +52,7 @@ Distribution Requirements: CL, QR.
 
 ### Objectives
 
-Complex artificial intelligence problems often require sophisticated computer programs, or agents, that act autonomously on behalf of their users and interact with hardware. This course will introduce students to the foundational principles behind robotic agents and to the civic issues, public challenges, and opportunities in this field. Areas of discussion include, but are not limited to sensors, perception, robot navigation and localization, motion planning, machine learning in robots, state of the art robotic applications, robotics in K-12 education, renewable energy, misuse of intelligent software and hardware, and various public issues utilizing agent/robotic systems as a solution.
+Complex modern digital problems often require sophisticated computer programs, or agents, that act autonomously on behalf of their users and interact with hardware. This course will introduce students to the foundational principles behind robotic agents and to the civic issues, public challenges, and opportunities in this field. Areas of discussion include, but are not limited to sensors, perception, robot navigation and localization, motion planning, machine learning in robots, state of the art robotic applications, robotics in K-12 education, renewable energy, misuse of intelligent software and hardware, and various public issues utilizing agent/robotic systems as a solution.
 
 The course will introduce students to the practice of agent-based and robotic systems while covering both the well-established and the cutting-edge areas of the discipline. The course also invites students to design and develop several robotic system applications and to assess the correctness of their implementations. This will require students to work both with hardware and with software throughout the course. Moreover, the course will ask students to reflect on several public problems at local, national and international level that are or can be solved using robotic technologies and to study social systems behind them. In addition to improving their teamwork skills, students will enhance their ability to write and speak about agent-based and robotic systems in a clear and concise fashion. Through civic engagement activities, students will also strengthen their skill of clearly communicating technical details to the general public.
 
@@ -83,6 +84,14 @@ Week # | Dates            | Topic                                               
 16      | Dec. 12 - Dec. 16     |   Project work                  |                                       | 
 17      | Sep. 19 - Dec. 23     |   Finals                        |                                       | 
 
+### Materials
+
+There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
+
+You are required to bring a laptop to every class. Additionally, you will be required to install software on your laptop and if your laptop is not capable of working with specific software then a departmental laptop will be provided to you.
+
+Besides, the laptop there is no required hardware that you need for this class. All hardware will be provided to you.
+
 ### Policies
 
 #### Grading
@@ -90,13 +99,13 @@ Week # | Dates            | Topic                                               
 Category           | Percentage | Assessment metric
 ------------------ | ---------- | -----------------
 Class Activities   | 20%        | check mark grade
-Exams              | 15%        | letter grade
 Community Engagement | 10%      | check mark grade
 Projects | 45%      | letter grade
 Presentations      | 10%        | letter grade
+Exams              | 15%        | letter grade
 Total              | 100%       |
 
-#### Grading scale
+#### Grading Scale
 
 |Grading scale|            |             |            |             |            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
@@ -105,28 +114,30 @@ Total              | 100%       |
 |C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
 |D+           | 67 - 69.9  |D            | 63 - 66.9  |F           | 59.9 and below  |
 
-#### Class activities
+#### Class Activities
 
 All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams). You will receive a checkmark grade (1) if you complete more than 70% of the activity; otherwise you will receive a 0.
 
-#### Exams
+#### Community Engagement
 
-The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively three exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
-scheduled dates. 
+A significant portion of the course asks the students to study and reflect on public problems related to the field of robotics. As a part of civic learning in this course you will be required to engage in the community. This will mainly involve developing software and hardware to be presented to our local community. 
 
 #### Projects
 
 Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your robotic agent system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular project.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
 
+#### Presentations
 
-#### Final Project
+At various points of the course, students will engage with learning "hot topics" and report on their findings to our class community.
 
-This project will present students with an opportunity to design and implement a correct and carefully evaluated robotic system for some chosen application. The chosen application and the proposed solution should identify and address a public problem. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester.
+#### Exams
 
+The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively three exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
+scheduled dates.
 
-#### Assignment submission
+#### Assignment Submission
 
-All assignments have a stated due date and are to be turned in electronically on that due date. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignments instructions for submitting your completed programs in order for them to be graded.  All of the late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
+All assignments have a stated due date and are to be turned in on that due date. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
 
 #### Attendance
 
@@ -136,7 +147,7 @@ It is mandatory for all students to attend all of the class and laboratory sessi
 
 Various digital channels are used in this course for communication, including email, Discord, and the GitHub issue tracker. Additionally, the course website is used to store the link to the course GitHub Organization, which will contain course syllabus, course schedule and the assignments. Students are responsible for regularly checking all platforms to ensure that the important messages are not being missed.
 
-#### Allegheny College statement of community
+#### Allegheny College Statement of Community
 
 Allegheny College also expects students and faculty to act according to its Statement of Community:
 
@@ -144,7 +155,7 @@ Allegheny College also expects students and faculty to act according to its Stat
 
 Keep both of these standards in mind as you exercise your academic inquiry in this course. These serve as our fundamental "first principles" in pursuit of our shared academic goals.
 
-#### Honor code
+#### Honor Code
 
 All students and faculty at Allegheny College are bound by the Honor Code. Everyone expects that your behavior reflects this commitment. Given the eminently shareable and reproducible nature of code, the Department of Computer Science adds the following statement to the general college policy:
 
@@ -154,9 +165,11 @@ As the nature of "plagiarism" and constituents of "fair use" change often, the d
 
 The above statement, of course, also applies to online forums such as Stack Overflow, et al.
 
-#### Classroom ethics
+#### Classroom Ethics
 
-The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf). In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/community_guidelines). Each violation to the course guidelines will result in a warning from the instructor; after two such warnings, the grade of the assignment during which a violation was detected will be reduced.
+The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+
+In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/community_guidelines). 
 
 ### Assistance
 
@@ -164,17 +177,32 @@ The discipline of computer science, like many others, encourages its members to 
 
 Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor. Students who need the course instructor's assistance should schedule an appointment through her [Office Hour Calendar](https://janyljumadinova.com/schedule).
 
-#### Assistance outside of the course
+#### Academic Alerts
 
-If you find yourself in difficult circumstances which interfere with your ability to participate in or complete course assignments, let me know immediately. Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus.
+Allegheny College uses an Academic Alert system to send progress notices to the class deans in the Maytum Center for Student Success (MCSS). The progress notices are not punitive. They are an opportunity to connect you with your class dean who can offer additional support and suggest resources if you need assistance. These notices may encourage faculty advisors, coaches (for student-athletes), or other support staff to provide outreach to you as well.
 
-In many situations, the following list of resources may help:
+#### Class Deans
 
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
+The Office of Class Deans in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don’t know who to ask – ask a class dean. If you want advice – talk to a class dean. Niki Fjeldal is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Jonathon May is the Third/Fourth Year Class Dean. Please contact them individually or through studentsuccess@allegheny.edu.
 
-#### Special needs and disability
+#### Mental Health and Wellness
 
-Students with disabilities who believe they need accommodations in this course are encouraged to contact Disability Services at `+1 814-332-2898` or `disabilityservices@allegheny.edu`. Disability Services is located in Pelletier Library. Should you need accommodations, contact this office as soon as possible to ensure that approved accommodations are communicated and implemented in a timely fashion.
+As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed.
+
+Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
+
+Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC’s website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny’s 24/7 line: 814-332-2105. 
+If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
+
+#### Gator Success Grants
+
+The Gator Success Grant program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student’s need. Please direct questions to `studentsuccess@allegheny.edu`.
+
+#### Religious Observance 
+
+If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see `https://sites.allegheny.edu/religiouslife/religious-holy-days/` for more details.
+
+#### Educational Accommodations
+
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
+
