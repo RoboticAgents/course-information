@@ -31,9 +31,9 @@ Email: jjumadinova@allegheny.edu
 
 Session | Day      | Time              | Location
 ------- | -------- | ----------------- | ---------
-Class   | Tuesday  | 9:30am - 11:45pm  | Alden 109
-Class   | Thursday | 9:30am - 11:45pm  | Alden 109
-Lab     | Thursday | 2:30pm - 4:20pm   | Alden 109
+Class   | Tuesday  | 9:30am - 11:45pm  | Alden 101 / ALIC
+Class   | Thursday | 9:30am - 11:45pm  | Alden 101 / ALIC
+Lab     | Thursday | 2:30pm - 4:20pm   | ALIC
 
 ### Discord
 
@@ -51,11 +51,13 @@ Distribution Requirements: CL, QR.
 
 ### Objectives
 
+Complex artificial intelligence problems often require sophisticated computer programs, or agents, that act autonomously on behalf of their users and interact with hardware. This course will introduce students to the foundational principles behind robotic agents and to the civic issues, public challenges, and opportunities in this field. Areas of discussion include, but are not limited to sensors, perception, robot navigation and localization, motion planning, machine learning in robots, state of the art robotic applications, robotics in K-12 education, renewable energy, misuse of intelligent software and hardware, and various public issues utilizing agent/robotic systems as a solution.
 
+The course will introduce students to the practice of agent-based and robotic systems while covering both the well-established and the cutting-edge areas of the discipline. The course also invites students to design and develop several robotic system applications and to assess the correctness of their implementations. This will require students to work both with hardware and with software throughout the course. Moreover, the course will ask students to reflect on several public problems at local, national and international level that are or can be solved using robotic technologies and to study social systems behind them. In addition to improving their teamwork skills, students will enhance their ability to write and speak about agent-based and robotic systems in a clear and concise fashion. Through civic engagement activities, students will also strengthen their skill of clearly communicating technical details to the general public.
 
 ### Outcomes
 
-
+At the completion of this course, a student must be comfortable with fundamental concepts and practical techniques in robotic systems and be aware of current public issues involving this area. When given a new relevant problem, students should be able to select proper robotic agent-based tools and techniques and implement a complete application that uses them to solve the stated problem. Students must also be able to develop a toolkit of robotic concepts that they can use in the context of the solutions to real-world problems. Furthermore, students must be capable of identifying a public problem applicable to the field of study, and find and apply an appropriate solution using robotic and agent-based systems. Finally, students must be able to critically reflect on the civic engagement interactions and influences of any societal forces on the problem their civic action is addressing.
 
 ### Schedule
 
@@ -64,22 +66,22 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
 ------ | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
 1      | Aug. 29-Sep.2       | Introduction to Robotics.  | Community Guidelines. [Activity 1](). | Read the syllabus.
-2      | Sep. 5 - Sep. 9     |                                        |                                       | 
-2      | Sep. 12 - Sep. 16     |                                        |                                       | 
-2      | Sep. 19 - Sep. 23     |                                        |                                       | 
-2      | Sep. 26 - Sep. 30     |                                        |                                       | 
-2      | Oct. 3 - Sep. 7     |                                        |                                       | 
-2      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11                                      |                                       | 
-2      | Oct. 17 - Oct. 21     |                                        |                                       | 
-2      | Oct. 24 - Oct. 28     |  No class on Oct. 25                                      |                                       | 
-2      | Oct. 31 - Nov. 4     |                                        |                                       | 
-2      | Nov. 7 - Nov. 11     |                                        |                                       | 
-2      | Nov. 14 - Nov. 18     |                                        |                                       | 
-2      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25                                      |                                       | 
-2      | Nov. 28 - Dec. 2     |                                        |                                       | 
-2      | Dec. 5 - Dec. 9     |                                        |                                       | 
-2      | Dec. 12 - Dec. 16     |                                        |                                       | 
-2      | Sep. 19 - Dec. 23     |   Finals                                     |                                       | 
+2      | Sep. 5 - Sep. 9     | Introduction to Robotics.  |                                       | 
+3      | Sep. 12 - Sep. 16     | Localization.            |                                       | 
+4      | Sep. 19 - Sep. 23     |  Navigation. Path Planning.  |                                   | 
+5      | Sep. 26 - Sep. 30     |  Planning. Control.      |                                       | 
+6      | Oct. 3 - Sep. 7     |   Planning. Control.       |                                       | 
+7      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11   |                                       | 
+8      | Oct. 17 - Oct. 21     |  Robot Manipulation.     |                                       | 
+9      | Oct. 24 - Oct. 28     |  No class on Oct. 25     |                                       | 
+10      | Oct. 31 - Nov. 4     |  Robot Manipulation.     |                                       | 
+11      | Nov. 7 - Nov. 11     |   Perception.            |                                       | 
+12      | Nov. 14 - Nov. 18     |  Machine learning in robotics   |                                       | 
+13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25  |                                       | 
+14      | Nov. 28 - Dec. 2     |   Reinforcement learning     |                                       | 
+15      | Dec. 5 - Dec. 9     |    Reinforcement learning         |                                       | 
+16      | Dec. 12 - Dec. 16     |   Project work                  |                                       | 
+17      | Sep. 19 - Dec. 23     |   Finals                        |                                       | 
 
 ### Policies
 
@@ -90,8 +92,8 @@ Category           | Percentage | Assessment metric
 Class Activities   | 20%        | check mark grade
 Exams              | 15%        | letter grade
 Community Engagement | 10%      | check mark grade
-Programming Projects | 35%      | letter grade
-Final Project      | 20%        | letter grade
+Projects | 45%      | letter grade
+Presentations      | 10%        | letter grade
 Total              | 100%       |
 
 #### Grading scale
@@ -109,15 +111,12 @@ All students are required to actively participate during all of the class sessio
 
 #### Exams
 
-The exams will cover all of the material
-    in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively three exams are planned. Unless prior
-    arrangements are made with the instructor, all students will be expected to take the exams on the
-    scheduled dates. 
+The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively three exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
+scheduled dates. 
 
+#### Projects
 
-#### Project assignments
-
-Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your multi-agent or robotic system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular lab.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
+Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your robotic agent system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular project.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
 
 
 #### Final Project
