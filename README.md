@@ -169,7 +169,7 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
-In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/community_guidelines). 
+In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/community_guidelines.md). 
 
 ### Assistance
 
