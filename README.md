@@ -82,7 +82,7 @@ Week # | Dates            | Topic                                               
 14      | Nov. 28 - Dec. 2     |   Reinforcement learning     |                                       | 
 15      | Dec. 5 - Dec. 9     |    Reinforcement learning         |                                       | 
 16      | Dec. 12 - Dec. 16     |   Project work                  |                                       | 
-17      | Sep. 19 - Dec. 23     |   Finals                        |                                       | 
+17      | Dec. 19 - Dec. 23     |   Finals                        |                                       | 
 
 ### Materials
 
