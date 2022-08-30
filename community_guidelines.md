@@ -4,6 +4,8 @@
 
 ### Interactions in class and lab
 
+### Interactions in the community
+
 ### Interactions on Discord
 
 ### Interactions on GitHub
