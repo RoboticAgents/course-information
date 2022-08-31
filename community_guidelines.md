@@ -4,7 +4,7 @@
 
 ### Interactions in class and lab
 
-### Interactions in the community
+### Interactions in the local community
 
 ### Interactions on Discord
 
@@ -13,3 +13,5 @@
 ### Team work
 
 ### Working with hardware
+
+### Violations
