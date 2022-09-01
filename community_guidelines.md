@@ -29,6 +29,9 @@
 ### Team work
  - Don't be afraid to hold each other accountable (in a respectful manner).
  - Host brief team reflection at the end of a project to discuss what went well and what could use improvement(This should be respectful constructive criticism).
+ - Dont be afraid to ask for clarification for something in a PR.
+ - Spend time working out a schedule that all of your teammates can be in the lab/working on the project together.
+ - Communicate regularly with your teammates about deadlines and expected workload for each person.
 
 ### Working with hardware
  - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
