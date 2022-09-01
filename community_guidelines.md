@@ -28,7 +28,7 @@ GitHub flow should be followed at all times.
  - Commits should be descriptive and small.
  - PRs should be reviewed by at least one other team member.
  - If not added to a PR request don't review it without permission of the creator.
- - 
+
 ### Team work
  - Don't be afraid to hold each other accountable (in a respectful manner).
  - Host brief team reflection at the end of a project to discuss what went well and what could use improvement(This should be respectful constructive criticism).
