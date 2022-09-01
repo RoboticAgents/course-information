@@ -14,7 +14,10 @@
  - Do the right thing.
  
 ### Interactions in the local community
-
+- DO NOT CREATE A ROBOTS OF MASS DESTRUCTION.
+- Be knowledgeful of your potencial inpact of your community. 
+- Be respectful to community members.
+- Be mindful of your surrounding.
 ### Interactions on Discord
 
 ### Interactions on GitHub
