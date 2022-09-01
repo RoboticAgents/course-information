@@ -24,10 +24,11 @@
  - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature/`, `fix`, `doc`.
  - Commits should be descriptive and small.
  - PRs should be reviewed by at least one other team member.
-- If not added to a PR request don't review it without permission of the creator.
-- 
+ - If not added to a PR request don't review it without permission of the creator.
+ - 
 ### Team work
- - GitHub flow should be followed at all times.
+ - Don't be afraid to hold each other accountable (in a respectful manner).
+ - Host brief team reflection at the end of a project to discuss what went well and what could use improvement(This should be respectful constructive criticism).
 
 ### Working with hardware
  - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
