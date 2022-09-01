@@ -12,12 +12,17 @@
  - Respect other's privacy and boundaries.
  - Practice the 3 pillars of social interaction: **Humility, Trust, and Respect**
  - Do the right thing.
+ - Be helpful.
+ - Be responsible for what you done.
  
 ### Interactions in the local community
 - DO NOT CREATE A ROBOTS OF MASS DESTRUCTION.
 - Be knowledgeful of your potencial inpact of your community. 
 - Be respectful to community members.
 - Be mindful of your surrounding.
+- Be careful of what you done to the local environment.
+- Guild the local people if they want to use the robots.
+
 ### Interactions on Discord
 
 ### Interactions on GitHub
