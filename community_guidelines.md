@@ -8,6 +8,8 @@
 
 ### Interactions in class and lab
 
+- be respectful
+- respect other's privacy
 ### Interactions in the local community
 
 ### Interactions on Discord
