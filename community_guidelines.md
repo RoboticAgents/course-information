@@ -7,10 +7,21 @@
 ## Activity grade: all students must make a contribution (e.g. commit) to receive credit
 
 ### Interactions in class and lab
-
-- be respectful
-- respect other's privacy
+ - Ensure actions and language create a welcoming environment.
+ - Be respectful.
+ - Respect other's privacy and boundaries.
+ - Practice the 3 pillars of social interaction: **Humility, Trust, and Respect**
+ - Do the right thing.
+ - Be helpful.
+ - Be responsible for what you done.
+ 
 ### Interactions in the local community
+- DO NOT CREATE A ROBOTS OF MASS DESTRUCTION.
+- Be knowledgeful of your potencial inpact of your community. 
+- Be respectful to community members.
+- Be mindful of your surrounding.
+- Be careful of what you done to the local environment.
+- Guild the local people if they want to use the robots.
 
 ### Interactions on Discord
 
@@ -18,7 +29,7 @@
  - PRs should be reviewed thoroughly and in a timely manner. Should they not, gentle reminders are okay.
  - Comments and criticism should be respectful and constructive. Provide alternative solutions.
  - Don't sneak feature requests into PR reviews. Focus only on what the intended functionality of the PR is supposed to cover.
- - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature/`, `fix`, `doc`.
+ - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature`, `fix`, `doc`.
  - Commits should be descriptive and small.
  - PRs should be reviewed by at least one other team member.
 
