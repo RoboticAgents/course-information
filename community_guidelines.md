@@ -18,6 +18,9 @@
 - Check it regularly (particularly if that is your main communication method for group work)
 
 ### Interactions on GitHub
+GitHub flow should be followed at all times.
+ - Be respectful.
+ - Dont touch another person's equipment or computer unless given permission.
  - PRs should be reviewed thoroughly and in a timely manner. Should they not, gentle reminders are okay.
  - Comments and criticism should be respectful and constructive. Provide alternative solutions.
  - Don't sneak feature requests into PR reviews. Focus only on what the intended functionality of the PR is supposed to cover.
