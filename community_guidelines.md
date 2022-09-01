@@ -32,3 +32,5 @@
  - Always wear the proper safety gear required when using a machine or tool
 
 ### Violations
+- Depending on the severity of the violation, the class will determine the corrective action. 
+
