@@ -33,5 +33,5 @@
 
 ### Violations
 - Depending on the severity of the violation, the class will determine the corrective action. 
-- Late work multiples times verbal warning. 
+- Showing up for class late multiple times verbal warning. 
 
