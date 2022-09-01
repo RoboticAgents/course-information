@@ -13,10 +13,19 @@
 ### Interactions on Discord
 
 ### Interactions on GitHub
+ - PRs should be reviewed thoroughly and in a timely manner. Should they not, gentle reminders are okay.
+ - Comments and criticism should be respectful and constructive. Provide alternative solutions.
+ - Don't sneak feature requests into PR reviews. Focus only on what the intended functionality of the PR is supposed to cover.
+ - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature/`, `fix`, `doc`.
+ - Commits should be descriptive and small.
+ - PRs should be reviewed by at least one other team member.
 
 ### Team work
+ - GitHub flow should be followed at all times.
 
 ### Working with hardware
-
+ - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
+ - Don't take more than you need, taking the entire box of resistors because you don't know which one you need affects all of us. Take one at a time.
+ 
 ### Violations
 
