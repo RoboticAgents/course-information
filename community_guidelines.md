@@ -35,6 +35,9 @@ GitHub flow should be followed at all times.
  - Dont be afraid to ask for clarification for something in a PR.
  - Spend time working out a schedule that all of your teammates can be in the lab/working on the project together.
  - Communicate regularly with your teammates about deadlines and expected workload for each person.
+ - Complete assigned work in a timely manner.
+ - Ask for help when needed.
+ - When you get a pull request, review it as soon as you can.
 
 ### Working with hardware
  - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
