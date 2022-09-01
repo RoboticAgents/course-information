@@ -28,6 +28,7 @@
 ### Working with hardware
  - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
  - Don't take more than you need, taking the entire box of resistors because you don't know which one you need affects all of us. Take one at a time.
- 
-### Violations
+ - Tools are to be put back after you are done using them. If there is no one in line to use them, return where you found them, how you found them.
+ - Always wear the proper safety gear required when using a machine or tool
 
+### Violations
