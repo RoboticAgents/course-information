@@ -21,7 +21,7 @@
 - Be respectful to community members.
 - Be mindful of your surrounding.
 - Be careful of what you done to the local environment.
-- Guild the local people if they want to use the robots.
+- Guide the local people if they want to use the robots.
 
 ### Interactions on Discord
 
