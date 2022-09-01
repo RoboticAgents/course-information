@@ -10,8 +10,13 @@
 
 - be respectful
 - respect other's privacy
+- be helpful
+- be responsible for what you done
 ### Interactions in the local community
-
+- be respectful
+- respect other's privacy
+- be careful of what you done to the local environment
+- guild the local people if they want to use the robots
 ### Interactions on Discord
 
 ### Interactions on GitHub
