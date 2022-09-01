@@ -7,10 +7,11 @@
 ## Activity grade: all students must make a contribution (e.g. commit) to receive credit
 
 ### Interactions in class and lab
+ - Be respectful.
+ - Respect other's privacy.
 
-- be respectful
-- respect other's privacy
 ### Interactions in the local community
+ - No robots of mass destruction.
 
 ### Interactions on Discord
 
