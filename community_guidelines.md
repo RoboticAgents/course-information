@@ -42,6 +42,9 @@
    - Try to start commits with a word such as `Fix`, `Add`, or `Remove`, where applicable.
    - In general, these are soft guidelines that may not always apply but try to adhere to them whenever possible and appropriate.
  - PRs should be reviewed by at least one other team member.
+ - PRs should follow similar guidelines as commit messages in relation to title length.
+   - Again, while there is no hard limit on title length, **less than 50 characters** is preferred.
+   - Include extra details in the body of the PR.
  - If not added to a PR request don't review it without permission of the creator.
 
 ### Team work
