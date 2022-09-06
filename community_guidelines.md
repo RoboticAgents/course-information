@@ -35,3 +35,4 @@
 - Depending on the severity of the violation, the class will determine the corrective action. 
 - Showing up for class late multiple times verbal warning. 
 - When work is turned in late JJ will decide on the consequences.
+- Exceptions will be made for documented extenuating circumstances.
