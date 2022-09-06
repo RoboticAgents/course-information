@@ -37,6 +37,10 @@
  - Don't sneak feature requests into PR reviews. Focus only on what the intended functionality of the PR is supposed to cover.
  - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature`, `fix`, `doc`.
  - Commits should be descriptive and small.
+   - For example, `updated some code` is not a good commit message, `Add pathfinding base class` is a much better commit message.
+   - Try to keep commit messages as **less than 50 characters** however this is a soft guideline. You can always add extra information in the optional extended message by appending a second `-m "MESSAGE"` to your `git commit`
+   - Try to start commits with a word such as `Fix`, `Add`, or `Remove`, where applicable.
+   - In general, these are soft guidelines that may not always apply but try to adhere to them whenever possible and appropriate.
  - PRs should be reviewed by at least one other team member.
  - If not added to a PR request don't review it without permission of the creator.
 
