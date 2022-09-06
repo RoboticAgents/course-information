@@ -9,7 +9,7 @@
 ### Interactions in class and lab
  - Ensure your actions and language create a welcoming environment.
  - Be respectful.
- - Respect others privacy and boundaries.
+ - Respect others' privacy and boundaries.
  - Practice the 3 pillars of social interaction: **Humility, Trust, and Respect**
  - Do the right thing.
  - Be helpful.
