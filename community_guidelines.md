@@ -24,9 +24,9 @@
 - Guild the local people if they want to use the robots.
 
 ### Interactions on Discord
-- Be courteous about any questions asked by a classmate
-- Respond to questions when you can
-- Check it regularly (particularly if that is your main communication method for group work)
+- Be courteous about any questions asked by a classmate.
+- Respond to questions when you can.
+- Check it regularly (particularly if that is your main communication method for group work).
 
 ### Interactions on GitHub
  - GitHub flow should be followed at all times.
@@ -35,7 +35,7 @@
  - PRs should be reviewed thoroughly and in a timely manner. Should they not, gentle reminders are okay.
  - Comments and criticism should be respectful and constructive. Provide alternative solutions.
  - Don't sneak feature requests into PR reviews. Focus only on what the intended functionality of the PR is supposed to cover.
- - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixs of `feature`, `fix`, `doc`.
+ - Branches should follow the naming scheme i.e. "feature/some-cool-feature", "fix/some-cool-bugfix", "doc/some-cool-documentation". The important part being the prefixes of `feature`, `fix`, `doc`.
  - Commits should be descriptive and small.
  - PRs should be reviewed by at least one other team member.
  - If not added to a PR request don't review it without permission of the creator.
