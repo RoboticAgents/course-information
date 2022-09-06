@@ -7,21 +7,21 @@
 ## Activity grade: all students must make a contribution (e.g. commit) to receive credit
 
 ### Interactions in class and lab
- - Ensure actions and language create a welcoming environment.
+ - Ensure your actions and language create a welcoming environment.
  - Be respectful.
  - Respect other's privacy and boundaries.
  - Practice the 3 pillars of social interaction: **Humility, Trust, and Respect**
  - Do the right thing.
  - Be helpful.
- - Be responsible for what you done.
+ - Be responsible for what you do.
  
 ### Interactions in the local community
-- DO NOT CREATE A ROBOTS OF MASS DESTRUCTION.
-- Be knowledgeful of your potencial inpact of your community. 
+- DO NOT CREATE A ROBOT OF MASS DESTRUCTION.
+- Be knowledgeable of potential impacts on your community. 
 - Be respectful to community members.
-- Be mindful of your surrounding.
-- Be careful of what you done to the local environment.
-- Guild the local people if they want to use the robots.
+- Be mindful of your surroundings.
+- Be careful of what you may do to the local environment.
+- Guide local people if they want to use the robots.
 
 ### Interactions on Discord
 - Be courteous about any questions asked by a classmate
