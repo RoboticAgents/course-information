@@ -4,7 +4,7 @@ This repository contains information about the Robotic Agents course, including 
 
 # Content
 
-- [SCHEDULE](#Schedule)
+- [**Schedule**](#Schedule)
 - [Instructor](#Instructor)
 - [Meeting Times](#Meetings)
 - [Discord](#Discord)
@@ -67,12 +67,12 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
 ------ | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
 1      | Aug. 29 - Sep. 2       | Introduction to Class. [GitHub Flow Slides.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | Activity 1: Syllabus Quiz. [Community Guidelines Activity](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md). | Read the syllabus. Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).
-2      | Sep. 5 - Sep. 9     | [Introduction to Robotics Slides.](https://docs.google.com/presentation/d/e/2PACX-1vRFi6cfutkuaUs_dyR6XBAe9uZRN9G52Ijhm-RRP8Vmh6Bdrzw45VaRtHIq4emt3sU7euDF1343syAQ/pub?start=false&loop=false&delayms=3000)  | Finish [Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) on Sep. 6th. Project 1. Activity 2: Ethical Robots. | Read [Chapter 1 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
-3      | Sep. 12 - Sep. 16     | Localization.            |                                       | 
-4      | Sep. 19 - Sep. 23     |  Navigation. Path Planning.  |                                   | 
-5      | Sep. 26 - Sep. 30     |  Planning. Control.      |                                       | 
-6      | Oct. 3 - Sep. 7     |   Planning. Control.       |                                       | 
-7      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11   |                                       | 
+2      | Sep. 5 - Sep. 9     | [Introduction to Robotics Slides.](https://docs.google.com/presentation/d/e/2PACX-1vRFi6cfutkuaUs_dyR6XBAe9uZRN9G52Ijhm-RRP8Vmh6Bdrzw45VaRtHIq4emt3sU7euDF1343syAQ/pub?start=false&loop=false&delayms=3000)  | Finish [Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) on Sep. 6th. [Project 1.]() Activity 2: Ethical Robots. | Read [Chapter 1 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf). Read [Robot Ethics: Where Values and Engineering Meet](https://www.automate.org/blogs/robot-ethics-where-values-and-engineering-meet)
+3      | Sep. 12 - Sep. 16     | Navigation.            | Project 1  Part 1 Due (Races). | 
+4      | Sep. 19 - Sep. 23     |  Navigation. Localization.  | Project 1 Walkthrough.  | 
+5      | Sep. 26 - Sep. 30     |  Planning. Control.      |  Project 1 Part 2 Due (Final Demo and Submission). | 
+6      | Oct. 3 - Sep. 7     |   Planning. Control.       |   | 
+7      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11.   |                                       | 
 8      | Oct. 17 - Oct. 21     |  Robot Manipulation.     |                                       | 
 9      | Oct. 24 - Oct. 28     |  No class on Oct. 25     |                                       | 
 10      | Oct. 31 - Nov. 4     |  Robot Manipulation.     |                                       | 
