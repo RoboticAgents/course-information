@@ -61,11 +61,12 @@
  - Tools should be shared and not hogged. When you are done with a tool put it back and if someone else needs to use it then finish your task and pass the tool off to them
  - Don't take more than you need, taking the entire box of resistors because you don't know which one you need affects all of us. Take one at a time.
  - Tools are to be put back after you are done using them. If there is no one in line to use them, return where you found them, how you found them.
- - Always wear the proper safety gear required when using a machine or tool
+ - Always wear the proper safety gear required when using a machine or tool.
+ - Use the hardware given to you in a responsible and safe manner.
+ - Return all hardware upon completion of an assignment or at the latest by the end of the semester.
 
 ### Violations
-- Depending on the severity of the violation, the class will determine the corrective action. 
-- Showing up for class late multiple times verbal warning. 
-- When work is turned in late JJ will decide on the consequences.
+- Consequences for violating these community guidelines may include: (1) verbal warning, (2) reduction in the assignment grade, or (3) a report to the Honor Code committee.
 - Exceptions will be made for documented extenuating circumstances.
 - Students will report any violations to the professor via [Google Forms](https://forms.gle/MLevhckE3H1cGmtx8).
+- The professor will determine the consequences for violations based on the number of reported violations and/or observed behavior.
