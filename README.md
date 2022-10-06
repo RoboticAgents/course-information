@@ -30,7 +30,7 @@ Week # | Dates            | Topic                                               
 5      | Sep. 26 - Sep. 30     |  Bebop and pyparrot.  |  <ul><li>Activity 5: get to know bebop.</li> <li>Activity 6: get to know pyparrot.</li> <li>Project 1 Part 2 Due (Final Demo and Submission).</li> | <ul><li>[`bebop` documentation](https://www.parrot.com/us/support/documentation/bebop-range).</li> <li>[`pyparrot` documentation and examples](https://github.com/amymcgovern/pyparrot).</li></ul>
 6      | Oct. 3 - Sep. 7     |  <ul><li>Modularity in Robotic Systems.</li> <li>[Navigation](https://docs.google.com/presentation/d/e/2PACX-1vQAsDXGSXPUEMPvI0mn63hLuLOpP1vuz-M8R3FWsB8yKpgyXslA5hgpQLPeb4SfCINz8-KnHRI_ggtf/pub?start=false&loop=false&delayms=3000).</li></ul>  | <ul><li>Activity 7: guest speaker questions.</li> <li>Presentations: navigation</li> <li>Project 2 Walkthrough</li></ul> | Review slides.
 7      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11. Robotic Operating System.  |   Project 2 Demonstrations and Final Submission.  | [Introduction to ROS](http://wiki.ros.org/ROS/Introduction).
-8      | Oct. 17 - Oct. 21     |  Localization. Kinematics.  |                                       | 
+8      | Oct. 17 - Oct. 21     |  Exam 1. Localization. Kinematics.  |                                       | 
 9      | Oct. 24 - Oct. 28     |  No class on Oct. 25. Robot Manipulation.  |                                       | 
 10      | Oct. 31 - Nov. 4     |  Robot Manipulation.     |                                       | 
 11      | Nov. 7 - Nov. 11     |   Perception.            |                                       | 
@@ -101,9 +101,9 @@ Category           | Percentage | Assessment metric
 ------------------ | ---------- | -----------------
 Class Activities   | 20%        | check mark grade
 Community Engagement | 10%      | check mark grade
-Projects | 45%      | letter grade
+Projects | 50%      | letter grade
 Presentations      | 10%        | letter grade
-Exams              | 15%        | letter grade
+Exams              | 10%        | letter grade
 Total              | 100%       |
 
 #### Grading Scale
@@ -133,7 +133,7 @@ At various points of the course, students will engage with learning "hot topics"
 
 #### Exams
 
-The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively three exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
+The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively two exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
 scheduled dates.
 
 #### Assignment Submission
