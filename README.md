@@ -100,9 +100,9 @@ Besides, the laptop there is no required hardware that you need for this class. 
 Category           | Percentage | Assessment metric
 ------------------ | ---------- | -----------------
 Class Activities   | 20%        | check mark grade
-Community Engagement | 10%      | check mark grade
+Community Engagement | 14%      | check mark grade
 Projects | 50%      | letter grade
-Presentations      | 10%        | letter grade
+Presentations      | 6%        | letter grade
 Exams              | 10%        | letter grade
 Total              | 100%       |
 
