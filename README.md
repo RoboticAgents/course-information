@@ -38,8 +38,7 @@ Week # | Dates            | Topic                                               
 13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25  | Project Work on Nov. 22nd. | 
 14      | Nov. 28 - Dec. 2     | [Community Engagement](https://docs.google.com/presentation/d/e/2PACX-1vS0mnZolYaBf2X5phvqBMY6UHj4Y4YsJQ9M-7itFBzwJw-uPHT309sWusStoZHnHF36ehPlbotdgCPy/pub?start=false&loop=false&delayms=3000). |  <ul><li>Community Engagement Event Preparation.</li> <li>Final Project work.</li></ul> | Pages 11-23 in the ["Growing CS ..." Paper](https://jmwais.org/wp-content/uploads/sites/8/2022/07/clicable-july2022.pdf#page=11).
 15      | Dec. 5 - Dec. 9     | Learning in robotics.   |  <ul><li>Community Event: December 5th, 6pm-8pm</li> <li>Community Outreach on December 6th</li> <li>Final Project work.</li> | Read [Chapters 8 and 10 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
-16      | Dec. 12 - Dec. 16     |   Project due. Exam 2 given on December 15th.  |    | 
-17      | Dec. 19 - Dec. 23     | Exam 2.   |   Exam 2 DUE on December 19th. | 
+16      | Dec. 12 - Dec. 16     |   Project due.   |    | 
 
 ## Instructor
 
@@ -100,10 +99,10 @@ Besides, the laptop there is no required hardware that you need for this class. 
 Category           | Percentage | Assessment metric
 ------------------ | ---------- | -----------------
 Class Activities   | 20%        | check mark grade
-Community Engagement | 14%      | check mark grade
+Community Engagement | 19%      | letter grade
 Projects | 50%      | letter grade
 Presentations      | 6%        | letter grade
-Exams              | 10%        | letter grade
+Exam              | 5%        | letter grade
 Total              | 100%       |
 
 #### Grading Scale
@@ -121,7 +120,7 @@ All students are required to actively participate during all of the class sessio
 
 #### Community Engagement
 
-A significant portion of the course asks the students to study and reflect on public problems related to the field of robotics. As a part of civic learning in this course you will be required to engage in the community. This will mainly involve developing software and hardware to be presented to our local community. 
+A significant portion of the course asks the students to study and reflect on public problems related to the field of robotics. As a part of civic learning in this course you will be required to engage in the community. This will mainly involve developing software and hardware to be presented to our local community and then participating in appropriate outreach events. 
 
 #### Projects
 
@@ -131,10 +130,10 @@ Graded on a percentage and credit/no-credit basis, these team-based assignments 
 
 At various points of the course, students will engage with learning "hot topics" and report on their findings to our class community.
 
-#### Exams
+#### Exam
 
-The exams will cover all of the material in its associated module. The date for each exam will be announced at least one week in advance of the scheduled date, tentatively two exams are planned. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
-scheduled dates.
+The exam will cover all of the material in its associated module. The date for the exam will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the instructor, all students will be expected to take the exams on the
+scheduled dates. As voted by the members of the class, the second community outreach event can be used instead of the second exam.
 
 #### Assignment Submission
 
