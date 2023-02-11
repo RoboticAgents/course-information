@@ -6,7 +6,6 @@ This repository contains information about the Robotic Agents course, including 
 
 - [**Schedule**](#Schedule)
 - [Instructor](#Instructor)
-- [Course Calendar](#Calendar)
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Outcomes)
