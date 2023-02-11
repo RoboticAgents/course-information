@@ -1,4 +1,4 @@
-# CMPSC 311 Course Syllabus
+# Robotic Agents Course Information
 
 This repository contains information about the Robotic Agents course, including the course objectives and the schedule.
 
