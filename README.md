@@ -1,6 +1,6 @@
 # CMPSC 311 Course Syllabus
 
-This repository contains information about the Robotic Agents course, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
+This repository contains information about the Robotic Agents course, including the course objectives and the schedule.
 
 # Content
 
@@ -22,23 +22,23 @@ This repository contains information about the Robotic Agents course, including 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
 Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
-1      | Aug. 29 - Sep. 2       | Introduction to Class. [GitHub Flow.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | Activity 1: Syllabus Quiz. [Community Guidelines Activity](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md). | <ul><li>Read the syllabus.</li> <li>Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).</li></ul>
-2      | Sep. 5 - Sep. 9     | [Introduction to Robotics.](https://docs.google.com/presentation/d/e/2PACX-1vRFi6cfutkuaUs_dyR6XBAe9uZRN9G52Ijhm-RRP8Vmh6Bdrzw45VaRtHIq4emt3sU7euDF1343syAQ/pub?start=false&loop=false&delayms=3000)  | <ul><li>Finish [Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) on Sep. 6th.</li> <li>[Project 1.](https://classroom.github.com/a/q3fHb-19).</li> <li>Activity 2: Ethical Robots.</li> <li>Activity 3: Engineering Ethics into Robots.</li></ul>| <ul><li>Read [Chapter 1 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li> <li>Read [Robot Ethics: Where Values and Engineering Meet](https://www.automate.org/blogs/robot-ethics-where-values-and-engineering-meet).</li> <li>Read [Dark Side of Ethical Robots](https://www.aies-conference.com/2018/contents/papers/main/AIES_2018_paper_98.pdf).</li></ul>
-3      | Sep. 12 - Sep. 16     | [Actuating and Sensing](https://docs.google.com/presentation/d/e/2PACX-1vQK8x68VYXZ-UHVlMHCdNBeNrA13sMD94nUKp_4TLF-RakfrBUXHoT5ew64JDS3pVENxF2rifXZ2d5G/pub?start=false&loop=false&delayms=3000).            | <ul><li>Activity 4: gopigo sensors.</li> <li>Project 1  Part 1 Due (Races).</li></ul> | <ul><li>Read [Robot Ethics: Where Values and Engineering Meet](https://www.automate.org/blogs/robot-ethics-where-values-and-engineering-meet).</li> <li>Read [Dark Side of Ethical Robots](https://www.aies-conference.com/2018/contents/papers/main/AIES_2018_paper_98.pdf).</li> <li>Read [Chapters 6 and 7 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li></ul>
-4      | Sep. 19 - Sep. 23     |  [Locomotion](https://docs.google.com/presentation/d/e/2PACX-1vTnupjXdfsjX9-SFnNoj-BTV3RCbkhiVzgHO30mfUoqvBTyFq3gV4Tfny56z5MpuIZAG-jBaBlhee5s/pub?start=false&loop=false&delayms=3000).   | Project 1 Walkthrough.  | Read [Chapter 2.1-2.3 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
-5      | Sep. 26 - Sep. 30     |  Bebop and pyparrot.  |  <ul><li>Activity 5: get to know bebop.</li> <li>Activity 6: get to know pyparrot.</li> <li>Project 1 Part 2 Due (Final Demo and Submission).</li> | <ul><li>[`bebop` documentation](https://www.parrot.com/us/support/documentation/bebop-range).</li> <li>[`pyparrot` documentation and examples](https://github.com/amymcgovern/pyparrot).</li></ul>
-6      | Oct. 3 - Sep. 7     |  <ul><li>Modularity in Robotic Systems.</li> <li>[Introduction to Navigation](https://docs.google.com/presentation/d/e/2PACX-1vQAsDXGSXPUEMPvI0mn63hLuLOpP1vuz-M8R3FWsB8yKpgyXslA5hgpQLPeb4SfCINz8-KnHRI_ggtf/pub?start=false&loop=false&delayms=3000).</li></ul>  | <ul><li>[Activity 7: guest speaker questions](https://forms.gle/LSrpdtDeothKzzgu7).</li> <li>Presentations: navigation</li> <li>Project 2 Walkthrough</li></ul> | Review slides.
-7      | Oct. 10 - Oct. 14     |  <ul><li>Fall break Oct. 10-11.</li> <li>[Introduction to Robot Operating System](https://docs.google.com/presentation/d/e/2PACX-1vRfj8bEkA40DPt8MHogOkTxoiAJtPYvnubIR6RbmCqrMSIK0OxxViJrMKaUoR71rcv31-4aRTZ1RHkL/pub?start=false&loop=false&delayms=3000).</li> <li>[Exam Review](https://docs.google.com/presentation/d/e/2PACX-1vROAcTDDUEr4nhdx3XMRg02jOK-kFichltXk8ms7a1E61I_lhgfGuUJ-d-W0SaNi4XRljVCmDlgOwSa/pub?start=false&loop=false&delayms=3000).</li></ul> |  <ul><li>[Activity 8: get to know ROS robots.](https://forms.gle/prpjRBA8vhDKz4qM7).</li> <li>Project 2 Demonstrations and Final Submission.</li></ul>  | [Introduction to ROS](http://wiki.ros.org/ROS/Introduction). 
-8      | Oct. 17 - Oct. 21     |  <ul><li>Exam 1 on Oct. 18th.</li> <li>[Getting to Know ROS](https://docs.google.com/presentation/d/e/2PACX-1vTDe9Vqv_jAqgPWoUsSUu1k7HIVrjcCuxezc_rqakDxA5qTmKv3siXrwI9fcE32_yQ0WYPsdRgT7nrw/pub?start=false&loop=false&delayms=3000).</li><li>Project: Robot Manipulation/Mapping.</li></ul>  |  [Activity 9: ROS Set-Up and Begin ROS Beginner Tutorials](https://classroom.github.com/a/i4MQCX_m). | <ul><li>[ROS CLI Tutorials](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html).</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf)</li></ul>
-9      | Oct. 24 - Oct. 28     |  <ul><li>No class on Oct. 25.</li> <li>Understanding ROS.</li> <li>Project: Robot Manipulation/Mapping.</li></ul> | <ul><li>[Activity 10: Continue ROS Beginner Tutorials](https://classroom.github.com/a/i4MQCX_m).</li> <li>Guest speaker on October 27th: robotics industry and careers. [Activity 11: Neya Robotics](https://forms.gle/PGzH8iYMff967o9p9).</li></ul> | <ul><li>[ROS CLI Tutorials](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html).</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf)</li></ul>
-10      | Oct. 31 - Nov. 4     |  <ul><li>"Hot Topic" Presentations on November 3rd.</li> <li>Project 3: Robot Manipulation/Mapping.</li></ul>  | <ul><li>Project 3 work on November 1st.</li> <li>Presentations - Nov 3rd.</li> <li>Project 3 Work on November 3rd in lab.</li></ul> | [ROS Tutorials](https://docs.ros.org/en/galactic/Tutorials/Beginner-CLI-Tools.html)
-11      | Nov. 7 - Nov. 11     |   Robot Manipulation and Navigation. | <ul><li>Project 3 Demonstrations on November 8th.</li>  <li>Project 4 Work on November 10th in lab.</li></ul> | <ul><li>Reading resources provided in project 4.</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li></ul>
-12      | Nov. 14 - Nov. 18     |  <ul><li>Optical Filter Robots.</li> <li>Robot Manipulation and Navigation.</li></ul>  | <ul><li>Project 4 work demonstrations in class on November 17th.</li> <li>Final project released in lab on November 17th.</li></ul> | Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
-13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25  | Project Work on Nov. 22nd. | 
-14      | Nov. 28 - Dec. 2     | [Community Engagement](https://docs.google.com/presentation/d/e/2PACX-1vS0mnZolYaBf2X5phvqBMY6UHj4Y4YsJQ9M-7itFBzwJw-uPHT309sWusStoZHnHF36ehPlbotdgCPy/pub?start=false&loop=false&delayms=3000). |  <ul><li>Community Engagement Event Preparation.</li> <li>Final Project work.</li></ul> | Pages 11-23 in the ["Growing CS ..." Paper](https://jmwais.org/wp-content/uploads/sites/8/2022/07/clicable-july2022.pdf#page=11).
-15      | Dec. 5 - Dec. 9     | Learning in robotics.   |  <ul><li>Community Event: December 5th, 6pm-8pm</li> <li>Community Outreach on December 6th</li> <li>Final Project work.</li> | Read [Chapters 8 and 10 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
-16      | Dec. 12 - Dec. 16     |   Project due.   |    | 
+------ |  ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
+1      |  Introduction to Class. [GitHub Flow.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | Activity 1: Syllabus Quiz. [Community Guidelines Activity](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md). | <ul><li>Read the syllabus.</li> <li>Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).</li></ul>
+2      |  [Introduction to Robotics.](https://docs.google.com/presentation/d/e/2PACX-1vRFi6cfutkuaUs_dyR6XBAe9uZRN9G52Ijhm-RRP8Vmh6Bdrzw45VaRtHIq4emt3sU7euDF1343syAQ/pub?start=false&loop=false&delayms=3000)  | <ul><li>Finish [Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) on Sep. 6th.</li> <li>[Project 1.](https://classroom.github.com/a/q3fHb-19).</li> <li>Activity 2: Ethical Robots.</li> <li>Activity 3: Engineering Ethics into Robots.</li></ul>| <ul><li>Read [Chapter 1 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li> <li>Read [Robot Ethics: Where Values and Engineering Meet](https://www.automate.org/blogs/robot-ethics-where-values-and-engineering-meet).</li> <li>Read [Dark Side of Ethical Robots](https://www.aies-conference.com/2018/contents/papers/main/AIES_2018_paper_98.pdf).</li></ul>
+3      | [Actuating and Sensing](https://docs.google.com/presentation/d/e/2PACX-1vQK8x68VYXZ-UHVlMHCdNBeNrA13sMD94nUKp_4TLF-RakfrBUXHoT5ew64JDS3pVENxF2rifXZ2d5G/pub?start=false&loop=false&delayms=3000).            | <ul><li>Activity 4: gopigo sensors.</li> <li>Project 1  Part 1 Due (Races).</li></ul> | <ul><li>Read [Robot Ethics: Where Values and Engineering Meet](https://www.automate.org/blogs/robot-ethics-where-values-and-engineering-meet).</li> <li>Read [Dark Side of Ethical Robots](https://www.aies-conference.com/2018/contents/papers/main/AIES_2018_paper_98.pdf).</li> <li>Read [Chapters 6 and 7 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li></ul>
+4      |   [Locomotion](https://docs.google.com/presentation/d/e/2PACX-1vTnupjXdfsjX9-SFnNoj-BTV3RCbkhiVzgHO30mfUoqvBTyFq3gV4Tfny56z5MpuIZAG-jBaBlhee5s/pub?start=false&loop=false&delayms=3000).   | Project 1 Walkthrough.  | Read [Chapter 2.1-2.3 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
+5      |   Bebop and pyparrot.  |  <ul><li>Activity 5: get to know bebop.</li> <li>Activity 6: get to know pyparrot.</li> <li>Project 1 Part 2 Due (Final Demo and Submission).</li> | <ul><li>[`bebop` documentation](https://www.parrot.com/us/support/documentation/bebop-range).</li> <li>[`pyparrot` documentation and examples](https://github.com/amymcgovern/pyparrot).</li></ul>
+6      |   <ul><li>Modularity in Robotic Systems.</li> <li>[Introduction to Navigation](https://docs.google.com/presentation/d/e/2PACX-1vQAsDXGSXPUEMPvI0mn63hLuLOpP1vuz-M8R3FWsB8yKpgyXslA5hgpQLPeb4SfCINz8-KnHRI_ggtf/pub?start=false&loop=false&delayms=3000).</li></ul>  | <ul><li>[Activity 7: guest speaker questions](https://forms.gle/LSrpdtDeothKzzgu7).</li> <li>Presentations: navigation</li> <li>Project 2 Walkthrough</li></ul> | Review slides.
+7      |   <ul> <li>[Introduction to Robot Operating System](https://docs.google.com/presentation/d/e/2PACX-1vRfj8bEkA40DPt8MHogOkTxoiAJtPYvnubIR6RbmCqrMSIK0OxxViJrMKaUoR71rcv31-4aRTZ1RHkL/pub?start=false&loop=false&delayms=3000).</li> <li>[Exam Review](https://docs.google.com/presentation/d/e/2PACX-1vROAcTDDUEr4nhdx3XMRg02jOK-kFichltXk8ms7a1E61I_lhgfGuUJ-d-W0SaNi4XRljVCmDlgOwSa/pub?start=false&loop=false&delayms=3000).</li></ul> |  <ul><li>[Activity 8: get to know ROS robots.](https://forms.gle/prpjRBA8vhDKz4qM7).</li> <li>Project 2 Demonstrations and Final Submission.</li></ul>  | [Introduction to ROS](http://wiki.ros.org/ROS/Introduction). 
+8      | <ul> <li>[Getting to Know ROS](https://docs.google.com/presentation/d/e/2PACX-1vTDe9Vqv_jAqgPWoUsSUu1k7HIVrjcCuxezc_rqakDxA5qTmKv3siXrwI9fcE32_yQ0WYPsdRgT7nrw/pub?start=false&loop=false&delayms=3000).</li><li>Project: Robot Manipulation/Mapping.</li></ul>  |  [Activity 9: ROS Set-Up and Begin ROS Beginner Tutorials](https://classroom.github.com/a/i4MQCX_m). | <ul><li>[ROS CLI Tutorials](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html).</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf)</li></ul>
+9      |   <ul> <li>Understanding ROS.</li> <li>Project: Robot Manipulation/Mapping.</li></ul> | <ul><li>[Activity 10: Continue ROS Beginner Tutorials](https://classroom.github.com/a/i4MQCX_m).</li> <li>Guest speaker on October 27th: robotics industry and careers. [Activity 11: Neya Robotics](https://forms.gle/PGzH8iYMff967o9p9).</li></ul> | <ul><li>[ROS CLI Tutorials](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html).</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf)</li></ul>
+10      |  <ul> <li>Project 3: Robot Manipulation/Mapping.</li></ul>  | <ul><li>Project 3 work on November 1st.</li> <li>Presentations - Nov 3rd.</li> <li>Project 3 Work on November 3rd in lab.</li></ul> | [ROS Tutorials](https://docs.ros.org/en/galactic/Tutorials/Beginner-CLI-Tools.html)
+11      | Robot Manipulation and Navigation. | <ul><li>Project 3 Demonstrations on November 8th.</li>  <li>Project 4 Work on November 10th in lab.</li></ul> | <ul><li>Reading resources provided in project 4.</li> <li>Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).</li></ul>
+12      |  <ul><li>Optical Filter Robots.</li> <li>Robot Manipulation and Navigation.</li></ul>  | <ul><li>Project 4 work demonstrations in class on November 17th.</li> <li>Final project released in lab on November 17th.</li></ul> | Read [Chapters 12 and 14 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
+13      | Project Work | Project Work | 
+14      |  [Community Engagement](https://docs.google.com/presentation/d/e/2PACX-1vS0mnZolYaBf2X5phvqBMY6UHj4Y4YsJQ9M-7itFBzwJw-uPHT309sWusStoZHnHF36ehPlbotdgCPy/pub?start=false&loop=false&delayms=3000). |  <ul><li>Community Engagement Event Preparation.</li> <li>Final Project work.</li></ul> | Pages 11-23 in the ["Growing CS ..." Paper](https://jmwais.org/wp-content/uploads/sites/8/2022/07/clicable-july2022.pdf#page=11).
+15      |  Learning in robotics.   |  <ul><li>Community Event: December 5th, 6pm-8pm</li> <li>Community Outreach on December 6th</li> <li>Final Project work.</li> | Read [Chapters 8 and 10 in "Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/blob/master/book-12-01-21-full.pdf).
+16      |    Project due.   |    | 
 
 ## Instructor
 
@@ -52,27 +52,13 @@ Email: jjumadinova@allegheny.edu
 
 [Office Hours](https://janyljumadinova.com/schedule)
 
-## Meetings
-
-Session | Day      | Time              | Location
-------- | -------- | ----------------- | ---------
-Class   | Tuesday  | 9:30am - 11:45pm  | Alden 101 / ALIC
-Class   | Thursday | 9:30am - 11:45pm  | Alden 101 / ALIC
-Lab     | Thursday | 2:30pm - 4:20pm   | ALIC
-
-### Discord
-
-If you are already on the department's Discord server, you will be given access to the course's Discord channel, called `#robotic-agents`. If not, then you will need to join the department's [Discord server](https://discord.gg/evTJPcR6) before you can be added to the course's channel. 
-
 ### Description
-
-Credits: 4
 
 A study of the design and implementation of autonomous software agents and robotic systems that cooperatively complete complex tasks. In addition to examining techniques for large-scale coordination and group-based decision-making, students learn how to apply the field's technologies to address the challenges facing local and global communities. Participating in hands-on activities that often require teamwork, students develop and evaluate several multi-agent or multi-robot systems, while also reflecting on the civic issues surrounding the use of these systems. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. 
 
-Prerequisite: CMPSC 102.
+Prerequisite: Introductory computer science course.
 
-Distribution Requirements: CL, QR.
+Focus: Quantitative Reasoning, Covoc Learning.
 
 ### Objectives
 
@@ -87,10 +73,6 @@ At the completion of this course, a student must be comfortable with fundamental
 ### Materials
 
 There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
-
-You are required to bring a laptop to every class. Additionally, you will be required to install software on your laptop and if your laptop is not capable of working with specific software then a departmental laptop will be provided to you.
-
-Besides, the laptop there is no required hardware that you need for this class. All hardware will be provided to you.
 
 ### Policies
 
@@ -168,41 +150,3 @@ The above statement, of course, also applies to online forums such as Stack Over
 #### Classroom Ethics
 
 The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
-
-In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md). 
-
-### Assistance
-
-#### Assistance with course concepts
-
-Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor. Students who need the course instructor's assistance should schedule an appointment through her [Office Hour Calendar](https://janyljumadinova.com/schedule).
-
-#### Academic Alerts
-
-Allegheny College uses an Academic Alert system to send progress notices to the class deans in the Maytum Center for Student Success (MCSS). The progress notices are not punitive. They are an opportunity to connect you with your class dean who can offer additional support and suggest resources if you need assistance. These notices may encourage faculty advisors, coaches (for student-athletes), or other support staff to provide outreach to you as well.
-
-#### Class Deans
-
-The Office of Class Deans in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don’t know who to ask – ask a class dean. If you want advice – talk to a class dean. Niki Fjeldal is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Jonathon May is the Third/Fourth Year Class Dean. Please contact them individually or through studentsuccess@allegheny.edu.
-
-#### Mental Health and Wellness
-
-As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed.
-
-Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
-
-Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC’s website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny’s 24/7 line: 814-332-2105. 
-If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
-
-#### Gator Success Grants
-
-The Gator Success Grant program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student’s need. Please direct questions to `studentsuccess@allegheny.edu`.
-
-#### Religious Observance 
-
-If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see `https://sites.allegheny.edu/religiouslife/religious-holy-days/` for more details.
-
-#### Educational Accommodations
-
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
-
